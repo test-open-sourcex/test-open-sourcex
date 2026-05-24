@@ -1,3 +1,3 @@
 # Test Open Source
 
-This repo is for testing pull reqests.
+This repository is for testing pull requests.
